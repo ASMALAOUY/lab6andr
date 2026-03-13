@@ -9,7 +9,7 @@ Une application Android de recettes de pizzas développée en Java, permettant a
 
 ![image alt](https://raw.githubusercontent.com/ASMALAOUY/lab6andr/0b0bdfe4e7eb9069ae40c01748cac35d45467ae1/Screenshot%202026-03-13%20154240.jpg)
 
-## 🍕 Recettes disponibles
+##  Recettes disponibles
 
 ### BARBECUE CHICKEN PIZZA
 - **Prix** : 3.0 €
@@ -27,12 +27,12 @@ Une application Android de recettes de pizzas développée en Java, permettant a
 
 ##  Fonctionnalités
 
-- ✅ **Splash Screen** : Écran de démarrage avec animation de 2 secondes
-- ✅ **Liste des pizzas** : Affichage avec noms, prix et temps de préparation
-- ✅ **Détail d'une pizza** : Informations complètes (ingrédients, description, étapes)
-- ✅ **Design responsive** : Interface adaptée aux différents écrans
+-  **Splash Screen** : Écran de démarrage avec animation de 2 secondes
+-  **Liste des pizzas** : Affichage avec noms, prix et temps de préparation
+-  **Détail d'une pizza** : Informations complètes (ingrédients, description, étapes)
+-  **Design responsive** : Interface adaptée aux différents écrans
 
-## 🛠 Technologies utilisées
+##  Technologies utilisées
 
 - **Langage** : Java
 - **IDE** : Android Studio
