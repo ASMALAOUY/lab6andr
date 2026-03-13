@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza Recipes</string>
+    <string name="pizza_image">Image de pizza</string>
+    <string name="ingredients_title">Ingrédients :</string>
+    <string name="description_title">Description :</string>
+    <string name="steps_title">Étapes :</string>
+    <string name="pizza_thumbnail">Miniature de pizza</string>
+    <string name="pizza_not_found">Pizza introuvable !</string>
+</resources>
