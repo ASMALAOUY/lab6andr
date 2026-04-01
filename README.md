@@ -2,12 +2,14 @@
 
 Une application Android de recettes de pizzas développée en Java, permettant aux utilisateurs de parcourir différentes recettes avec leurs ingrédients, descriptions et étapes de préparation.
 
-##  Captures d'écran
+##  Demo 
 
 
-![image alt](https://raw.githubusercontent.com/ASMALAOUY/lab6andr/0b0bdfe4e7eb9069ae40c01748cac35d45467ae1/Screenshot%202026-03-13%20154151.jpg)
 
-![image alt](https://raw.githubusercontent.com/ASMALAOUY/lab6andr/0b0bdfe4e7eb9069ae40c01748cac35d45467ae1/Screenshot%202026-03-13%20154240.jpg)
+
+https://github.com/user-attachments/assets/48fb90d0-ec0c-4268-9d93-556e2f0c08a5
+
+
 
 ##  Recettes disponibles
 
