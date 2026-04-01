@@ -5,10 +5,7 @@ Une application Android de recettes de pizzas développée en Java, permettant a
 ##  Demo 
 
 
-
-
-https://github.com/user-attachments/assets/48fb90d0-ec0c-4268-9d93-556e2f0c08a5
-
+https://github.com/user-attachments/assets/6afd9c17-d67e-489f-aadf-8f064284feb8
 
 
 ##  Recettes disponibles
